@@ -16,8 +16,8 @@ redirect_from:
   * Responsibilities: selection of relevant papers, evaluation of programming assignments, student presentations and student diaries.
 
 ### Tutoring
-* Tutors in various seminar courses supervise the student(s) who pick topic(s) offered by tutors. Tutors meet with the student(s) a few times during the semester, guide them in writing the seminar paper, and provide feedback on intermediate drafts of the paper. I was the tutor for the follwing courses:
-  * Spring 2021,[CS-E4000 - Seminar in Computer Science D](https://mycourses.aalto.fi/course/view.php?id=28179)
+* Tutors in various seminar courses supervise the student(s) who pick topic(s) offered by tutors. Tutors meet with the student(s) a few times during the semester, guide them in writing the seminar paper, and provide feedback on intermediate drafts of the paper. I was the tutor for the following courses:
+  * Spring 2021, [CS-E4000 - Seminar in Computer Science D](https://mycourses.aalto.fi/course/view.php?id=28179)
   * Fall 2019, [CS-E4000 - Seminar in Computer Science: Internet, Data and Things](https://mycourses.aalto.fi/course/view.php?id=24339#section-0)
   * Spring 2019, [CS-E4000 - Seminar in Computer Science: Internet, Data and Things](https://mycourses.aalto.fi/course/view.php?id=24339)
 
