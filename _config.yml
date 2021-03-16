@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/buse-gul-atli-18821298/"
+  linkedin         : "https://www.linkedin.com/in/buse-gul-atli-18821298/en-us"
   orcid            : "https://orcid.org/0000-0002-4120-6860"
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCjK9nLEkDCFYLyw_hLRmQIw/featured"
   wikipedia        :
 
 
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Finalnd/Espoo # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
