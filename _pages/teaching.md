@@ -8,3 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Co-organizer
+======
+* Fall 2020, Spring 2020
+  * CS-E4001 - Research Seminar on Security and Privacy of Machine Learning
+
+Course Assistant
+======
